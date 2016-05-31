@@ -1,0 +1,6 @@
+.price, .wc-proceed-to-checkout, .product-total, .cart-subtotal, .order-total,
+.shop_table.order_details tfoot, .method, .cart-collaterals, .woocommerce-info, .coupon,
+div.woocommerce p:nth-child(4) ,.total, .amount, .product-price, .product-subtotal,
+.payment_method_paypal, a.button.checkout{
+    display: none !important;
+}
